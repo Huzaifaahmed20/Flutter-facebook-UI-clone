@@ -1,8 +1,12 @@
 import 'package:facebook_ui_clone/config/pallete.dart';
 import 'package:facebook_ui_clone/screens/screens.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 
 void main() {
+  SystemChrome.setSystemUIOverlayStyle(SystemUiOverlayStyle(
+    statusBarColor: Colors.white,
+  ));
   runApp(MyApp());
 }
 
