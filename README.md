@@ -10,3 +10,8 @@ Made with ❤️️
 <br/>
 <br/>
 <img src='screenshots/home-two.png' height=400 >
+<br/>
+<br/>
+<br/>
+<br/>
+<img src='screenshots/bottombar.png' height=400 >
